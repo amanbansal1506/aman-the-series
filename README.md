@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AMAN — THE SERIES
 
 A cinematic, streaming-inspired portfolio for **Aman Bansal**: Full-Stack Developer.
@@ -97,4 +96,3 @@ scripts/build-images.mjs   ← portrait/share-image pipeline (sharp)
 - **Project and resume overlays:** Esc closes.
 =======
 # aman-the-series-my-portfolio-
->>>>>>> 6909e6d74c3f2bf14e88033be4e88ff89db0230a

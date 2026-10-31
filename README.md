@@ -14,7 +14,7 @@ npm install
 npm run dev
 ```
 
-Open the URL Vite prints (usually http://localhost:5173).
+Open the URL Vite prints (https://aman-the-series-beta.vercel.app/).
 
 Production build:
 
